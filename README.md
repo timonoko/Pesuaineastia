@@ -4,3 +4,4 @@ Skaalataan tarpeen mukaan.
 
 <img scr=astia2.png>
 <img scr=astia.png>
+<img src=astia2.png>
