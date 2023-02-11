@@ -1,4 +1,4 @@
 # Pesuaineastia
 Itsetyhjentyvä astia nestemäiselle pesuaineelle. Pesupallot on perseestä.
 Skaalataan tarpeen mukaan.
-<img scr=astia2.png>
+<image scr=astia2.png>
